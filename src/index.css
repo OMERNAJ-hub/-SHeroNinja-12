@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .ninja-border {
+    border: 1px solid #39FF14;
+    box-shadow: 0 0 15px rgba(57, 255, 20, 0.2);
+  }
+
+  .purple-border {
+    border: 1px solid #A855F7;
+    box-shadow: 0 0 15px rgba(168, 85, 247, 0.25);
+  }
+
+  .glass-card {
+    background: rgba(10, 10, 15, 0.75);
+    backdrop-filter: blur(16px);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .glass-card-neon {
+    background: rgba(5, 12, 5, 0.85);
+    backdrop-filter: blur(16px);
+    border: 1px solid rgba(57, 255, 20, 0.3);
+  }
+
+  .glass-card-purple {
+    background: rgba(15, 5, 20, 0.85);
+    backdrop-filter: blur(16px);
+    border: 1px solid rgba(168, 85, 247, 0.35);
+  }
+
+  .neon-text-green {
+    color: #39FF14;
+    text-shadow: 0 0 10px rgba(57, 255, 20, 0.7);
+  }
+
+  .neon-text-purple {
+    color: #C084FC;
+    text-shadow: 0 0 10px rgba(168, 85, 247, 0.7);
+  }
+
+  .ninja-btn-neon {
+    background-color: #39FF14;
+    color: #000000;
+    font-weight: 900;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .ninja-btn-neon:hover {
+    background-color: #52ff33;
+    box-shadow: 0 0 25px rgba(57, 255, 20, 0.8);
+    transform: translateY(-2px);
+  }
+
+  .ninja-btn-purple {
+    background-color: #A855F7;
+    color: #ffffff;
+    font-weight: 900;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+  }
+
+  .ninja-btn-purple:hover {
+    background-color: #c084fc;
+    box-shadow: 0 0 25px rgba(168, 85, 247, 0.8);
+    transform: translateY(-2px);
+  }
+}
+
+@keyframes cyberGlow {
+  0%, 100% {
+    box-shadow: 0 0 15px rgba(57, 255, 20, 0.2);
+  }
+  50% {
+    box-shadow: 0 0 30px rgba(57, 255, 20, 0.5);
+  }
+}
+
+.animate-cyber-glow {
+  animation: cyberGlow 3s infinite ease-in-out;
+}
+
+/* Custom scrollbar for dark theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #000000;
+}
+::-webkit-scrollbar-thumb {
+  background: #1a1a24;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #39FF14;
+}
+
+

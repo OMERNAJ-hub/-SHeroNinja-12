@@ -1,0 +1,6 @@
+{
+  "name": "شيرونينجا - 𝓢𝓗𝓮𝓻𝓸𝓝𝓲𝓷𝓳𝓪",
+  "description": "تطبيق متقدم لتعلم اللغة الإنجليزية البريطانية بأسلوب النينجا الذكي مع دعم كامل للغة العربية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
