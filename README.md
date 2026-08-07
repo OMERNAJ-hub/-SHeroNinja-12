@@ -1,20 +1,21 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# 🥷 𝓢𝓗𝓮𝓻𝓸𝓝𝓲𝓷𝓳𝓪 (SHeroNinja)
+> **The Ultimate British Linguistic Engineering Platform**
 
-# Run and deploy your AI Studio app
+SHeroNinja is a sophisticated language acquisition tool designed for Arabic speakers to achieve elite British fluency. By deconstructing native logic and using advanced "Sensei" algorithms, it bridges the gap between literal translation and authentic RP (Received Pronunciation) flow.
 
-This contains everything you need to run your app locally.
+## 🌟 Key Features
+- **Sensei Lab (AI-Powered):** Real-time deconstruction of Arabic dialect into strategic British logic.
+- **Invisible Thread Memory:** A stealth cognitive engine that tracks vocabulary decay and triggers strategic recall.
+- **Dojo Missions:** High-stakes interactive simulations (Boardrooms, Soho Pubs, Oxford Debates).
+- **Phonetic Anchoring:** Mental links and vivid imagery to ensure long-term retention of idioms and phrasal verbs.
 
-View your app in AI Studio: https://ai.studio/apps/4f2c9776-0e7e-4732-a4d8-01e0c0aa563d
+## 🚀 Tech Stack
+- **Engine:** React 18 + Vite + TypeScript
+- **Styling:** Tailwind CSS (Custom Dojo Dark Theme)
+- **Logic:** Integrated NLP via Gemini Pro 1.5
+- **Audio:** Multi-profile British Voice Synthesis
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 🛠 Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/OMERNAJ-hub/-SHeroNinja-12.git
