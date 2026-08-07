@@ -1,21 +1,19 @@
 # 🥷 𝓢𝓗𝓮𝓻𝓸𝓝𝓲𝓷𝓳𝓪 (SHeroNinja)
-> **The Ultimate British Linguistic Engineering Platform**
+> **Master the British Flow with Strategic Fluency.**
 
-SHeroNinja is a sophisticated language acquisition tool designed for Arabic speakers to achieve elite British fluency. By deconstructing native logic and using advanced "Sensei" algorithms, it bridges the gap between literal translation and authentic RP (Received Pronunciation) flow.
+### 📸 App Preview
+<p align='center'>
+  <img src='screenshots/screen1.png' width='45%' />
+  <img src='screenshots/screen2.png' width='45%' />
+  <img src='screenshots/de818b82-1289-46fe-a4a9-5d055aa8a248.png' width='45%' />
+  <img src='screenshots/image%20(2).png' width='45%' />
+</p>
 
-## 🌟 Key Features
-- **Sensei Lab (AI-Powered):** Real-time deconstruction of Arabic dialect into strategic British logic.
-- **Invisible Thread Memory:** A stealth cognitive engine that tracks vocabulary decay and triggers strategic recall.
-- **Dojo Missions:** High-stakes interactive simulations (Boardrooms, Soho Pubs, Oxford Debates).
-- **Phonetic Anchoring:** Mental links and vivid imagery to ensure long-term retention of idioms and phrasal verbs.
+## 🌟 Features
+- **Sensei Lab:** Deconstruct Arabic slang into elite British logic.
+- **Memory Vault:** AI-driven spaced repetition for retention.
+- **Dojo Missions:** High-stakes interactive simulations.
 
-## 🚀 Tech Stack
-- **Engine:** React 18 + Vite + TypeScript
-- **Styling:** Tailwind CSS (Custom Dojo Dark Theme)
-- **Logic:** Integrated NLP via Gemini Pro 1.5
-- **Audio:** Multi-profile British Voice Synthesis
-
-## 🛠 Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/OMERNAJ-hub/-SHeroNinja-12.git
+## 🛠 Tech Stack
+- React + TypeScript + Tailwind CSS
+- Gemini 1.5 Pro API
